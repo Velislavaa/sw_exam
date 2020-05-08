@@ -1,0 +1,1 @@
+C:\Users\Vili\AppData\Local\Programs\Python\Python37\python.exe C:\Users\Vili\Desktop\sw_exam\test_fmod.py
